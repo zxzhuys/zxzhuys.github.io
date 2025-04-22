@@ -28,9 +28,18 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+$sans-serif: 'Times New Roman', Times, serif;
+$serif: 'Times New Roman', Times, serif;
+
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
+
+/*
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
+*/
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
