@@ -24,5 +24,5 @@ No.38 Zheda Road, Hangzhou, China, 310027
   * zx_zhuys@outlook.com
   * zx_zhu@zju.edu.cn (for ZJUers)
 
-* [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)
+* [Wechat](https://zxzhuys.github.io/images/Wechat_zzx.png)
 
