@@ -3,6 +3,15 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  <!-- Add the WeChat button here -->
+    <ul class="author__social">
+      <li>
+        <a href="https://zxzhuys.github.io/images/Wechat_zzx.png" target="_blank" title="Wechat">
+          <img src='/images/wechat_icon.png'alt="Wechat" width="24" height="24">
+        </a>
+      </li>
+    </ul>
+  
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
