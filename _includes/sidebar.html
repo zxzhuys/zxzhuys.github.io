@@ -4,18 +4,13 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
 
-
-<div class="author-links">
     <li>
       <a class="social-icon" href="https://zxzhuys.github.io/images/Wechat_zzx.png" target="_blank">
         <i class="fab fa-weixin" aria-hidden="true"></i>
       </a>
     </li>
   </ul>
-</div>
 
-
-    
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
