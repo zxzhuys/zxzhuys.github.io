@@ -9,12 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-## Email
 
-* zx_zhuys@outlook.com
-* zx_zhu@zju.edu.cn (for ZJUers)
+## Address
 
-## Wechat
+Zhejiang University Yuquan Campus
 
-[Click here](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png).
+No.38 Zheda Road, Hangzhou, China, 310027
+
+浙江省杭州市西湖区浙大路38号浙江大学玉泉校区
+
+## Contact
+
+* Email
+  * zx_zhuys@outlook.com
+  * zx_zhu@zju.edu.cn (for ZJUers)
+
+* [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)
 
