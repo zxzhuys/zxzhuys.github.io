@@ -1,0 +1,4 @@
+/* 设置导航栏字体为 Times New Roman */
+nav, nav a, nav a:visited, nav a:active {
+  font-family: 'Times New Roman', Times, serif;
+}
