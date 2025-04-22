@@ -8,33 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:20px;">My name is Zixuan ZHU, a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
+<span style="font-size:20px;">My name is Zixuan ZHU (朱子轩), a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
 
-<a href="https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf" target="_blank" rel="noopener noreferrer" style="font-size:20px;">Resume/CV</a>
+Please refer to my <a href="https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf" target="_blank" rel="noopener noreferrer" style="font-size:20px;">Resume/CV</a> for more information
 
 ---
 
 # Education
-
-## The University of Tokyo
-
-*Tokyo, Japan*
-
-**Oct. 2025 - Present**
-
-Master of Engineering in *Mechanical Engineering*
-
-## Zhejiang University
-
-*Hangzhou, China*
-
-**Sep. 2020 – Jun. 2025**
-
-Bachelor of Engineering in *Electrical Engineering and Automation*
+* **M.Eng., The University of Tokyo**
+  * Mechanical Engineering
+  * Oct. 2025 - Present
+* **B.Eng., Zhejiang University**
+  * Electrical Engineering and Automation, GPA: 3.88/4
+  * Sep. 2020 – Jun. 2025
 
 ---
-
-## Thank you for your visiting! 
 
 ### For Students from College of Electrical Engineering, Zhejiang University
 
