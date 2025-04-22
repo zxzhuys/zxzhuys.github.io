@@ -20,7 +20,7 @@ redirect_from:
   * Oct. 2025 - Present
 * **B.Eng., Zhejiang University**
   * Electrical Engineering and Automation, GPA: 3.88/4
-  * Sep. 2020 – Jun. 2025
+  * Sep. 2020 - Jun. 2025
 
 ---
 
