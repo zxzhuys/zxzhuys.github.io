@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:20px;">My name is Zixuan ZHU (朱子轩), a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
+<span style="font-size:18px;">My name is Zixuan ZHU (朱子轩), a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
 
-<span style="font-size:20px;">Please refer to my [Resume/CV](https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf) for more information</span>
+<span style="font-size:18px;">Please refer to my [Resume/CV](https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf) for more information</span>
 
 ---
 
@@ -26,4 +26,4 @@ redirect_from:
 
 ### For Students from College of Electrical Engineering, Zhejiang University
 
-If you are a student majoring at Electrical Engineering and Automation, you are welcome to download files and reports you need in the Wechat Official Account "一起学习德智体".
+If you are a student majoring at Electrical Engineering and Automation, you are welcome to download files and reports you need in the Wechat Official Account **一起学习德智体**.
