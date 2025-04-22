@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# Greetings! 
 <span style="font-size:18px;">My name is Zixuan ZHU (朱子轩), a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
 
 <span style="font-size:18px;">Please refer to my <a href="https://zxzhuys.github.io/files/CV-Zhu-Zixuan.pdf" target="_blank" rel="noopener noreferrer" style="font-size:18px;">Resume/CV</a> for more information</span>
