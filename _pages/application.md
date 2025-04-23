@@ -2,7 +2,6 @@
 layout: archive
 title: "Master Application 2025 Fall - Zixuan ZHU"
 permalink: /application/
-date: 2025-04-10
 author_profile: true
 redirect_from:
   - /resume
