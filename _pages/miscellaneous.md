@@ -15,7 +15,7 @@ redirect_from:
 
 If you are a student majoring in **Electrical Engineering and Automation**, you are welcome to download files and reports you need in the Wechat Official Account **一起学习德智体**.
 
-## For Students Who Want to learn about Master's applications in Europe and Japan
+## For Students who want to learn about Master's Application in Europe and Japan
 
 If you plan to apply for a Master's program related to **Electric Power Engineering / Energy System Management**, please refer to this article.
 
