@@ -23,8 +23,7 @@ redirect_from:
   * Electrical Engineering and Automation, GPA: 3.88/4
   * Sep. 2020 - Jun. 2025
 
----
-
-### For Students from College of Electrical Engineering, Zhejiang University
-
-If you are a student majoring at Electrical Engineering and Automation, you are welcome to download files and reports you need in the Wechat Official Account **一起学习德智体**.
+## Language Proficiency
+* English  - TOEFL 96 (R25+L25+S21+W25) & CET-6 568 (Oral: A)
+* Japanese - JLPT N1 & JLPT N2
+* Chinese  - Native
