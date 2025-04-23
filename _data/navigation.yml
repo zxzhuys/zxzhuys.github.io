@@ -26,7 +26,10 @@ main:
     
   - title: "Contact"
     url: /contact/
-
+  
+  - title: "Miscs."
+    url: /miscellaneous/
+  
   - title: "Link"
     url: /link/
     
