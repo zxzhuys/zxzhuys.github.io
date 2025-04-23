@@ -2,6 +2,7 @@
 layout: archive
 title: "Master Application 2025 Fall - Zixuan ZHU"
 permalink: /application/
+date: 2025-04-10
 author_profile: true
 redirect_from:
   - /resume
@@ -24,7 +25,7 @@ Recent Update: 2025-04-10
 
 **Result**: Admitted Successfully!!!
 
-[click here to view Admission Certificate](https://ZhuZixuan0809.github.io/files/UTokyo_Admission_Certificate.pdf)
+[click here to view Admission Certificate](https://zxzhuys.github.io/files/UTokyo_Admission_Certificate.pdf)
 
 ## 1.2 Kyoto University
 
@@ -46,11 +47,11 @@ Recent Update: 2025-04-10
 
 **Result**: Rej
 
-[click here to view EPFL Answer](https://ZhuZixuan0809.github.io/files/EPFL_answer_Master_Zixuan_Zhu.pdf)
+[click here to view EPFL Answer](https://zxzhuys.github.io/files/EPFL_answer_Master_Zixuan_Zhu.pdf)
 
 ## 1.2 Technical University of Munich (TUM) --- Germany
 
-[click here to view my APS](https://ZhuZixuan0809.github.io/files/APS_Zixuan_Zhu.pdf)
+[click here to view my APS](https://zxzhuys.github.io/files/APS_Zixuan_Zhu.pdf)
 
 **Program**
 
@@ -65,9 +66,9 @@ Recent Update: 2025-04-10
 
 **Result**: Admitted with KTH Scholarship.
 
-[click here to view Admission Notification](https://ZhuZixuan0809.github.io/images/KTH_EPE_AD.jpg)
+[click here to view Admission Notification](https://zxzhuys.github.io/images/KTH_EPE_AD.jpg)
 
-[click here to view KTH Scholarship](https://ZhuZixuan0809.github.io/images/KTH_Scholarship.jpg)
+[click here to view KTH Scholarship](https://zxzhuys.github.io/images/KTH_Scholarship.jpg)
 
 ## 1.4 EIT InnoEnergy+ --- Sweden + Netherlands
 
@@ -75,7 +76,7 @@ Recent Update: 2025-04-10
 
 **Result**: Admitted without any scholarship.
 
-[click here to view Letter of Acceptance](https://ZhuZixuan0809.github.io/files/SENSE-Conditional-Acceptance-Letter.pdf)
+[click here to view Letter of Acceptance](https://zxzhuys.github.io/files/SENSE-Conditional-Acceptance-Letter.pdf)
 
 ## 1.5 Aalto University --- Finland
 
@@ -83,10 +84,11 @@ Recent Update: 2025-04-10
 
 **Result**: Admitted without any scholarship.
 
-[click here to view Letter of Admission](https://ZhuZixuan0809.github.io/files/Aalto_Admission_Letter_Zixuan_Zhu.pdf)
+[click here to view Letter of Admission](https://zxzhuys.github.io/files/Aalto_Admission_Letter_Zixuan_Zhu.pdf)
 
 ## 1.6 RWTH Aachen University --- Germany
 
 **Program**: Electrical Engineering and Information Technology (M.Sc.) --- Major: Electrical Power Engineering (EPEN)
 
 **Status**: Stop Application Process
+
