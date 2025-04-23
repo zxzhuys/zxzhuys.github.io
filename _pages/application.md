@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Master Application for 2025 Fall"
+title: "Master Application 2025 Fall - Zixuan ZHU"
 permalink: /application/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ redirect_from:
 
 *You can contact me for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
-Recent Update: 2025.04.09
+Recent Update: 2025-04-10
 
 # 1. Japan
 
