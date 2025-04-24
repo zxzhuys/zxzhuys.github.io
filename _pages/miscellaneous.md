@@ -24,14 +24,17 @@ If you plan to apply for a Master's program related to **Electric Power Engineer
 ## Ⅲ. Tennis Player
 
 * **Third Place** in Jinhua U16 Tennis Ranking Tournament (Jinhua, Zhejiang, China)
+
 * Member of Zhejiang University Student Tennis Team (2020.09 - 2021.06)
 
 ## Ⅳ. Extracurricular Activity
 
 * Team Leader of Student Education Project (Key Project of the College, 2023.10 - 2024.05)
+
   *Project Name: Construction of College Academic Assistance Website and WeChat Official Account*
 * Leader of Zhejiang University Volunteer Team | Short-term Student Exchange Program of Chinese Language & Culture, 2025
-  *with students from The University of Tokyo, Kyoto University, etc.*
+
+  *With Students from The University of Tokyo, Kyoto University, etc.*
 * Student Volunteer of 2021 Zhejiang University Trinity System (ZJU Special Admission Project)
 
 
