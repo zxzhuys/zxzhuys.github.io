@@ -23,7 +23,11 @@ If you plan to apply for a Master's program related to **Electric Power Engineer
 
 ## Ⅲ. Tennis Player
 
-* **Third Place** in Jinhua U16 Tennis Ranking Tournament (Jinhua, Zhejiang, China)
+* [Third Place](https://zxzhuys.github.io/images/Jinhua_Tennis_Competition_3rd.jpg) in Jinhua U14 Tennis Ranking Tournament (Jinhua, Zhejiang, China)
+
+* Member of Jinhua City Team at 2016 Zhejiang Provincial Tennis Championships
+  * Top 32 in Singles
+  * 6th Place in Team Competition
 
 * Member of Zhejiang University Student Tennis Team (2020.09 - 2021.06)
 
