@@ -26,15 +26,16 @@ redirect_from:
   <a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:22px;">工学系機械専攻</a>
 </div>
 
-## <span style="font-size:24px;">学术</span>
+## <span style="font-size:24px;">Academic</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
+  <a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">DeepSeek</a>
   <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Qwen AI</a>
   <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">ChatGPT</a>
 </div>
 
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
-  <a href="https://libdb.zju.edu.cn/s/lib/libtb/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">浙江大学图书馆数据库</a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">GitHub</a>
+  <a href="https://libdb.zju.edu.cn/s/lib/libtb/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">浙江大学图书馆数据库</a>
   <a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Google Scholar</a>
   <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:22px;">IEEE Xplore</a>
 </div>
@@ -43,6 +44,7 @@ redirect_from:
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
   <a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Bilibili</a>
   <a href="https://skr.cc/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Sakura Animation</a>
+  <a href="https://www.tsdm39.com/forum.php" target="_blank" rel="noopener noreferrer" style="font-size:22px;">天使动漫论坛</a>
 </div>
 
 ## <span style="font-size:24px;">Tool</span>
