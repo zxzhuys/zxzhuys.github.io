@@ -83,8 +83,8 @@ author:
   name             : "Zixuan ZHU"
   avatar           : "证件照20240413.jpg"
   bio              : "The Red Comet"
-  location         : "Hangzhou, China"
-  employer         : "The University of Tokyo"
+  location         : "Tokyo, Japan"
+  employer         : # "The University of Tokyo"
   pubmed           : 
   googlescholar    : 
   email            : "zx_zhuys@outlook.com"
@@ -99,8 +99,8 @@ author:
   github           : "zxzhuys"
   google_plus      :
   keybase          :
-  instagram        : "zxzhuys"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : # "zxzhuys"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zxzhuys"
+  twitter          : # "zxzhuys"
   vine             :
   weibo            :
   xing             :
