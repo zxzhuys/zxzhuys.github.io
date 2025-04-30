@@ -69,28 +69,6 @@
    Author profile and links
    ========================================================================== */
 
-
-.social-icons {
-  display: flex;
-  gap: 30px; /* 图标之间的间距 */
-  align-items: center;
-}
-
-.social-icon {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  color: inherit; /* 继承父级文字颜色 */
-  font-size: 1.2rem; /* 可根据需求调整整体字号 */
-}
-
-.icon-text {
-  margin-left: 8px; /* 图标与文字之间的间距 */
-  font-weight: 500; /* 可选：让文字更清晰 */
-}
-
-
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
