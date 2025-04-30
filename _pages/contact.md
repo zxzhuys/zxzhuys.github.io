@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact me"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -9,20 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
-## Address
-
-Zhejiang University Yuquan Campus
-
-No.38 Zheda Road, Hangzhou, China, 310027
-
-浙江省杭州市西湖区浙大路38号浙江大学玉泉校区
-
-## Contact
-
 * Email
   * zx_zhuys@outlook.com
   * zx_zhu@zju.edu.cn (for ZJUers)
 
 * [Wechat](https://zxzhuys.github.io/images/Wechat_zzx.png)
 
+* [Line]()
