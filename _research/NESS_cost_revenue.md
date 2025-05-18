@@ -13,11 +13,6 @@ collection: research
 2. Based on the life cycle theory, developed the Levelized Cost of Electricity (LCOE) Model for lithium iron phosphate batteries and performed sensitivity analysis to the trends of LCOE in relation to the annual operating frequency, charging/discharging efficiency, average off-peak electricity price, and charging/discharging depth of energy storage systems.
 3. From diverse perspectives (grid side, user side, etc), conducted investigation and analysis to revenue mechanisms including capacity compensation and capacity leasing, electric energy market, and ancillary service market.
 
-## Conclusion
-1. Initial investment costs and charging costs have a significant impact on the cost per kWh.
-2. The annual operating frequency plays a crucial role in determining the levelized cost. Increasing the cycle life of battery packs can effectively reduce the LCOE.
-3. Economic viability is now still a critical factor restricting the widespread deployment of energy storage.
-
 ## Publication
 ### Conference Paper 
 *Online | EI Compendex and SCOPUS)*
