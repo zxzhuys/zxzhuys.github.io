@@ -1,6 +1,7 @@
 ---
-title: "Research on The Life Cycle Cost and Investment Return Mechanisms of Novel Energy Storage Systems"
-excerpt: "Research Project, May 2023 - May 2024<br/><img src='/images/NESS-cost-revenue-png.png'>"
+title: "Low-Carrier-Ratio Current Control Strategy for Permanent Magnet Synchronous Motors"
+excerpt: "Bachelor Thesis, Jan. 2025 - May 2025<br/><img src='/images/NESS-cost-revenue-png.png'>"
+date: 2025-05-23
 collection: research
 ---
 
