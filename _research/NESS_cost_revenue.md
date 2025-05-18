@@ -1,12 +1,12 @@
 ---
 title: "Research on The Life Cycle Cost and Investment Return Mechanisms of Novel Energy Storage Systems"
-excerpt: "Research Project, May 2023 - May 2024<br/><img src='/images/NESS-cost-revenue-png.png' style="zoom: 33%;" />"
+excerpt: "Research Project, May 2023 - May 2024<br/><img src='/images/NESS-cost-revenue-png.png'>"
 collection: portfolio
 ---
 
 > *Team Leader*
 > 
-> Completed and was responsible for all aspects of the project
+> *Completed and was responsible for all aspects of the project*
 
 ## Research description
 1. Compiled a comprehensive research report by analyzing and summarizing policies and current status of novel energy storage in various countries and regions, including the US, Australia, China, the UK, Japan, etc.
