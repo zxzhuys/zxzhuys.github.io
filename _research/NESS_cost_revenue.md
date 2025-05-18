@@ -5,9 +5,7 @@ date: 2024-07-15
 collection: research
 ---
 
-> *Team Leader*
-> 
-> *Completed and was responsible for all aspects of the project*
+> *Team Leader, Completed and was responsible for all aspects of the project*
 
 ## Research description
 1. Compiled a comprehensive research report by analyzing and summarizing policies and current status of novel energy storage in various countries and regions, including the US, Australia, China, the UK, Japan, etc.
