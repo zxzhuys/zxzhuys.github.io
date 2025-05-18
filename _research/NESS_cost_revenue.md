@@ -1,6 +1,6 @@
 ---
 title: "Research on The Life Cycle Cost and Investment Return Mechanisms of Novel Energy Storage Systems"
-excerpt: "Research Project, May. 2023 - May. 2024<br/><img src='/images/Frequency indicator-8.88kHz.png'>"
+excerpt: "Research Project, May. 2023 - May. 2024<br/><img src='/images/NESS-cost-revenue-png.png'>"
 collection: portfolio
 ---
 
