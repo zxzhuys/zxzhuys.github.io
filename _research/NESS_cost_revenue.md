@@ -4,7 +4,9 @@ excerpt: "Research Project, May. 2023 - May. 2024<br/><img src='/images/Frequenc
 collection: portfolio
 ---
 
-> *Team Leader, Completed and was responsible for all aspects of the project*
+> *Team Leader*
+> 
+> Completed and was responsible for all aspects of the project
 
 ## Research description
 1. Compiled a comprehensive research report by analyzing and summarizing policies and current status of novel energy storage in various countries and regions, including the US, Australia, China, the UK, Japan, etc.
@@ -17,9 +19,8 @@ collection: portfolio
 3. Economic viability is now still a critical factor restricting the widespread deployment of energy storage.
 
 ## Publication
-
-[[Investigation on Policies and Projects Related to the Development of Novel Energy Storage]](https://zxzhuys.github.io/publication/Investigation%20on%20Policies%20and%20Projects%20Related%20to%20The%20Development%20of%20Novel%20Energy%20Storage)
-
-[[Investigation on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries]](https://zxzhuys.github.io/publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries)
-
+### Conference Paper 
+*Online | EI Compendex and SCOPUS)*
+* [ICPET 2024](https://zxzhuys.github.io/publication/Investigation-on-Policies-and-Projects-Related-to-the-Development-of-Novel-Energy-Storage)
+* [CFEEE 2023](https://zxzhuys.github.io/publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries)
 
