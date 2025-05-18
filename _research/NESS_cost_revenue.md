@@ -12,9 +12,7 @@ collection: research
 2. Based on the life cycle theory, developed the Levelized Cost of Electricity (LCOE) Model for lithium iron phosphate batteries and performed sensitivity analysis to the trends of LCOE in relation to the annual operating frequency, charging/discharging efficiency, average off-peak electricity price, and charging/discharging depth of energy storage systems.
 3. From diverse perspectives (grid side, user side, etc), conducted investigation and analysis to revenue mechanisms including capacity compensation and capacity leasing, electric energy market, and ancillary service market.
 
-## Publication
-### Conference Paper 
-*Online | EI Compendex and SCOPUS)*
+## Conference Paper 
+*Online | EI Compendex and SCOPUS*
 * [ICPET 2024](https://zxzhuys.github.io/publication/Investigation-on-Policies-and-Projects-Related-to-the-Development-of-Novel-Energy-Storage)
 * [CFEEE 2023](https://zxzhuys.github.io/publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries)
-
