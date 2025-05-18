@@ -21,3 +21,7 @@ The results of the research mainly include:
 1. To achieve bandwidth expansion of the current loop, this study investigated common PWM sampling and update strategies. Theoretical analysis, comparative studies, simulations, and experimental validations were conducted for both single-sample single-update and double-sample double-update methods. Results demonstrated that the double-sample double-update strategy effectively reduced current loop delay and enhanced bandwidth.  
 
 2. To realize dynamic decoupling of dq-axis currents, this study derived a complex vector decoupling method based on complex vector theory. Through theoretical analysis, simulations, and experiments, this approach was compared with traditional feedforward decoupling methods. The results validated that complex vector decoupling achieved dynamic decoupling of dq-axis currents while maintaining steady-state performance.
+
+### Patent 
+*Under Review*
+* "A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU"
