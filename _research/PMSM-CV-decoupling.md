@@ -5,9 +5,7 @@ date: 2025-05-23
 collection: research
 ---
 
-> *Bachelor Thesis*
-
-*The project was developed using MATLAB/Simulink.*
+*The project was developed based on MATLAB/Simulink.*
 
 [Simulink Models in GitHub](https://github.com/zxzhuys/PMSM-Current-Decoupling)
 
