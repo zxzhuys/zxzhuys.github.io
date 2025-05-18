@@ -1,7 +1,7 @@
 ---
 title: "Investigation on Policies and Projects Related to the Development of Novel Energy Storage"
 collection: publications
-permalink: /publication/Investigation on Policies and Projects Related to The Development of Novel Energy Storage
+permalink: /publication/Investigation-on-Policies-and-Projects-Related-to-the-Development-of-Novel-Energy-Storage
 date: 2024-07-15
 location: "Beijing, China"
 ---
