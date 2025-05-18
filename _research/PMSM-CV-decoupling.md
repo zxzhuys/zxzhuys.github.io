@@ -20,7 +20,7 @@ The results of the research mainly include:
 
 2. To realize dynamic decoupling of dq-axis currents, this study derived a complex vector decoupling method based on complex vector theory. Through theoretical analysis, simulations, and experiments, this approach was compared with traditional feedforward decoupling methods. The results validated that complex vector decoupling achieved dynamic decoupling of dq-axis currents while maintaining steady-state performance.
 
-### Patent 
+## Patent 
 *Under Review*
 * "A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU"
 
