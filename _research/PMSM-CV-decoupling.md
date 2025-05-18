@@ -7,7 +7,7 @@ collection: research
 
 *The project was developed based on MATLAB/Simulink.*
 
-[Simulink Models in GitHub](https://github.com/zxzhuys/PMSM-Current-Decoupling)
+<a href="https://github.com/zxzhuys/PMSM-Current-Decoupling" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Simulink Models in GitHub</a>
 
 ***Keywords**: Permanent Magnet Synchronous Motor, FOC, Current Control, Complex Vector Decoupling, Low Carrier Ratio, Current Bandwidth.*
 
