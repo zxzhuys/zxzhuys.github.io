@@ -1,4 +1,4 @@
-# Zixuan ZHU Homepage
+## Zixuan ZHU Homepage
 
-*For Personal Use*
+> *For Personal Use*
 
