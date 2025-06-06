@@ -47,10 +47,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.research reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
