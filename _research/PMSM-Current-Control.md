@@ -3,7 +3,7 @@ title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchrono
 collection: research
 type: "Bachelor Thesis"
 permalink: /research/PMSM-Current-Control
-venue: "College of Electrical Engineering, Zhejiang University"
+venue: "Zhejiang University, College of Electrical Engineering"
 date: 2025-06-04
 location: "Hangzhou, China"
 ---
