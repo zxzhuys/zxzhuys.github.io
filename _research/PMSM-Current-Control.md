@@ -4,7 +4,7 @@ collection: research
 type: "Bachelor Thesis"
 permalink: /research/PMSM-Current-Control
 venue: "College of Electrical Engineering, Zhejiang University"
-date: 2014-01-01
+date: 2025-06-04
 location: "Hangzhou, China"
 ---
 
