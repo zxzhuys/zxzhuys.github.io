@@ -1,14 +1,13 @@
 ---
 title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motor Drive Systems"
 collection: research
-type: "Bachelor Thesis"
-permalink: /research/PMSM-Current-Control
-venue: "Zhejiang University, College of Electrical Engineering"
+excerpt: "Bachelor Thesis<br/>Jan. 2025 - May 2025"
 date: 2025-06-04
-location: "Hangzhou, China"
 ---
 
 ***Keywords**: Permanent Magnet Synchronous Motor, FOC, Complex Vector Decoupling, Low Carrier Ratio, Current Bandwidth.*
+
+permalink: /research/PMSM-Current-Control
 
 *The project was developed based on MATLAB/Simulink.*
 
