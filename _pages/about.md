@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# Greetings!
+# Personal Info
 
-<span style="font-size:18px;">My name is Zixuan ZHU (朱子轩), a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.</span>
+I am currently a Master candidate in the Department of Mechanical Engineering, The University of Tokyo, Japan. I got my Bachelor's degree in Electrical Engineering at Zhejiang University, China.
+
+My research interests now mainly lie in Energy System Management and Energy Economics. I have also got experience in the Control of Electrical Machines(also my bachelor thesis), Power Electronics and Power System Analysis.
 
 ---
 
