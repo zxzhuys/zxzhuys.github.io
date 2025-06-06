@@ -1,9 +1,9 @@
 ---
 title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motor Drive Systems"
 collection: research
-excerpt: "Bachelor Thesis<br/>Jan. 2025 - Jun. 2025"
+excerpt: "Jan. 2025 - Jun. 2025"
 date: 2025-06-01
-type: "Bachelor thesis"
+type: "Bachelor Thesis"
 venue: "College of Electrical Engineering, Zhejiang University"
 location: "Hangzhou, China"
 ---
