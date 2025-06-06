@@ -3,8 +3,9 @@ title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchrono
 collection: research
 excerpt: "Bachelor Thesis<br/>Jan. 2025 - Jun. 2025"
 date: 2025-06-01
-type: "Bachelor Thesis"
+type: "Bachelor thesis"
 venue: "College of Electrical Engineering, Zhejiang University"
+location: "Hangzhou, China"
 ---
 
 *Bachelor thesis, Completed and was responsible for all aspects of the project*
