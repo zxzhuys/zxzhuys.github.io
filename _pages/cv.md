@@ -20,8 +20,8 @@ Education
   Sep. 2020 - Jun. 2025, GPA: 3.88/4.0
 
 * International Study
-  * UTokyo Global Unit Courses | The University of Tokyo, Jul. 2024
-  * Power Electronic Device and Application Techniques(Online) | The Aalborg University, May 2023
+  * UTokyo Global Unit Courses, The University of Tokyo, Jul. 2024
+  * Power Electronic Device and Application Techniques(Online), The Aalborg University, May 2023
 
 Language Proficiency
 ======
@@ -51,7 +51,7 @@ Honor and Award
 
 Service and Extracurricular Activity
 ======
-* Student Education Project (Team Leader) | Key Project of College
+* Student Education Project *(Team Leader, Key Project of College)*
 
   *Project Name: Construction of College Academic Assistance Website and WeChat Official Account*
 
@@ -60,7 +60,7 @@ Service and Extracurricular Activity
   *With students from The University of Tokyo, Kyoto University, etc.*
 
 * Tennis Player
-  * *Third Place* in Jinhua U14 Tennis Ranking Tournament | Jinhua, Zhejiang, China
+  * Third Place in Jinhua U14 Tennis Ranking Tournament (Jinhua, Zhejiang, China)
   * Member of Jinhua City Team at 2016 Zhejiang Provincial Tennis Championships
     * Top 32 in Singles
     * 6th in Team Competition
