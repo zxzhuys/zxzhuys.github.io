@@ -5,7 +5,6 @@ excerpt: "Bachelor Thesis<br/>Jan. 2025 - Jun. 2025"
 date: 2025-06-01
 ---
 
-*The project was developed based on MATLAB/Simulink.*
 
 ***Keywords**: Permanent Magnet Synchronous Motor(PMSM), Vector Control, Complex Vector Decoupling, Low Carrier Ratio, Current Bandwidth.*
 
@@ -25,6 +24,9 @@ The results of the research mainly include:
 ### Complex Vector Decoupling & Double-sample Double-update Strategy Performance
 <img src='/images/CV-dq-current.png'>
 
-### For more information, please visit my GitHub
+---
 
+*The project was developed based on MATLAB/Simulink.*
+
+*For more information, please visit my GitHub*
 
