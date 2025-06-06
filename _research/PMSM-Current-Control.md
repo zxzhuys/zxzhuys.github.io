@@ -1,7 +1,6 @@
 ---
 title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motor Drive Systems"
 collection: research
-permalink: /research/PMSM-Current-Control
 excerpt: "Bachelor Thesis<br/>Jan. 2025 - Jun. 2025"
 date: 2025-06-01
 ---
