@@ -1,5 +1,5 @@
 ---
-title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motor Drive Systems"
+title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motor Drive System"
 collection: research
 excerpt: "Jan. 2025 - Jun. 2025"
 date: 2025-06-01
