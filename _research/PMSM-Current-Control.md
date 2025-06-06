@@ -5,6 +5,7 @@ excerpt: "Bachelor Thesis<br/>Jan. 2025 - Jun. 2025"
 date: 2025-06-01
 ---
 
+*Bachelor thesis, Completed and was responsible for all aspects of the project*
 
 ***Keywords**: Permanent Magnet Synchronous Motor(PMSM), Vector Control, Complex Vector Decoupling, Low Carrier Ratio, Current Bandwidth.*
 
