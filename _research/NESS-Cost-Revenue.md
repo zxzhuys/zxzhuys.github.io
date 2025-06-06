@@ -1,7 +1,7 @@
 ---
 title: "Research on The Life Cycle Cost and Investment Return Mechanisms of Novel Energy Storage Systems"
 collection: research
-excerpt: "Research Project<br/>May 2023 - Jul. 2024"
+excerpt: "May 2023 - Jul. 2024"
 date: 2024-07-15
 type: "Research Project"
 venue: "College of Electrical Engineering, Zhejiang University"
