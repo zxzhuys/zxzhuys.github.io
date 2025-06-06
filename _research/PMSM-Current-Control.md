@@ -23,5 +23,8 @@ The results of the research mainly include:
 * A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU. *(Patent, under review)*
 
 ### Complex Vector Decoupling & Double-sample Double-update Strategy Performance
-
 <img src='/images/CV-dq-current.png'>
+
+### For more information, please visit my GitHub
+
+
