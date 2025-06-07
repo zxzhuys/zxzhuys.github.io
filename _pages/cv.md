@@ -47,7 +47,7 @@ Honor and Award
 * Zhejiang University Excellent Student Cadre
 * The First Prize in the East China Regional Competition of the 2nd Electrical & Electronic Engineering Innovation Competition
 
-Service and Extracurricular Activity
+Extracurricular Activity
 ======
 * Student Education Project *(Team Leader, Key Project of College)*
   * *Project Name: Construction of College Academic Assistance Website and WeChat Official Account*
