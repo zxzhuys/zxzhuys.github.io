@@ -39,10 +39,12 @@ Research Experience
 
 Honor and Award
 ======
+* Zhejiang University Outstanding Graduates
 * National Encouragement Scholarship
 * Zhejiang University Scholarship - Alumni Inspiration Scholarship
 * Zhejiang University Scholarship - Third Prize
 * Zhejiang University Award - Academic Excellence & Student Leadership & Innovation and Entrepreneurship & Academic Progress
+* Zhejiang University Excellent Student Cadre
 * The First Prize in the East China Regional Competition of the 2nd Electrical & Electronic Engineering Innovation Competition
 
 Service and Extracurricular Activity
@@ -52,7 +54,7 @@ Service and Extracurricular Activity
 * Zhejiang University Student Leader in *Short-term Student Exchange Program of Chinese Language & Culture at Zhejiang University*
   * *With students from The University of Tokyo, Kyoto University, etc.*
 * Tennis Player
-  * Third Place in Jinhua U14 Tennis Ranking Tournament (Jinhua, Zhejiang, China)
+  * Third Place in Jinhua U14 Tennis Ranking Tournament *(Jinhua, China)*
   * Member of Jinhua City Team at 2016 Zhejiang Provincial Tennis Championships
     * Top 32 in Singles
     * 6th in Team Competition
