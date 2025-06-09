@@ -3,11 +3,8 @@ title: "Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchrono
 collection: publications
 category: manuscripts
 permalink: /publication/Current-Control-Strategy-of-Low-Carrier-Ratio-Permanent-Magnet-Synchronous-Motors
-excerpt: '<i>Bachelor Thesis, Awaiting Submission</i>'
 date: 2025-06-01
-venue: ''
-paperurl: ''
-citation: ''
+venue: 'Zhejiang University Bachelor Thesis'
 ---
 
-The manuscript is awaiting submission.
+The manuscript was awarded Zhejiang University Outstanding Graduates *(4.0/4.0)*.
