@@ -22,7 +22,7 @@ The results of the research mainly include:
 2. To realize dynamic decoupling of dq-axis currents, this study derived a complex vector decoupling method based on complex vector theory. Through theoretical analysis, comparative studies, simulations, and experiments, this approach was compared with traditional feedforward decoupling methods. The results validated that complex vector decoupling achieved dynamic decoupling of dq-axis currents while maintaining steady-state performance.
 
 ## Publication
-* **Z. Zhu**, P. Song, T. Shi. Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motors, 2025. *(Awaiting Submission.)*
+* ZHU Zixuan. Current Control Strategy of Low Carrier Ratio Permanent Magnet Synchronous Motors[D]. Zhejiang University, 2025.
 * A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU. *(Patent Under Review)*
 
 ### Complex Vector Decoupling & Double-sample Double-update Strategy Performance
