@@ -28,9 +28,10 @@ redirect_from:
 
 ## <span style="font-size:24px;">Academic</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
+  <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Gemini</a>
   <a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">DeepSeek</a>
-  <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Qwen AI</a>
   <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">ChatGPT</a>
+  <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Qwen AI</a>
 </div>
 
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
