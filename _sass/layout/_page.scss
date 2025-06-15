@@ -72,39 +72,6 @@
     }
   }
 
-a:not(.btn) { // 使用 :not(.btn) 来避免影响按钮样式
-    text-decoration: none;
-    position: relative;
-    padding-bottom: 2px; // 为下划线留出空间
-
-    &:before {
-      content: "";
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      height: 2px; // 下划线粗细
-      width: 100%;
-      background: var(--global-link-color); // 使用链接颜色作为下划线颜色
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
-      -webkit-transform: scaleX(0);
-      transform: scaleX(0);
-      transform-origin: left; // 动画从左侧开始
-    }
-
-    &:hover:before {
-      -webkit-transform: scaleX(1);
-      transform: scaleX(1);
-    }
-
-    &:hover {
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
-  }
-
-/*
   a {
     text-decoration: underline;
 
@@ -116,7 +83,7 @@ a:not(.btn) { // 使用 :not(.btn) 来避免影响按钮样式
       }
     }
   }
-*/
+
    
   dt {
     margin-top: 1em;
