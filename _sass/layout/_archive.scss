@@ -30,25 +30,14 @@
 
   a {
     text-decoration: none;
-    position: relative;
+    background-image: linear-gradient(var(--global-link-color), var(--global-link-color));
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s ease-in-out;
 
-    &:before {
-      content: "";
-      position: absolute;
-      left: 0;
-      bottom: -2px;
-      height: 2px;
-      width: 100%;
-      background: var(--global-link-color);
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
-      -webkit-transform: scaleX(0);
-      transform: scaleX(0);
-    }
-
-    &:hover:before {
-      -webkit-transform: scaleX(1);
-      transform: scaleX(1);
+    &:hover, &:focus {
+      background-size: 100% 2px;
     }
 
     &:hover {
@@ -57,7 +46,6 @@
       }
     }
   }
-
 
 }
 
@@ -282,6 +270,25 @@
 /*
    Dynamic underline for article titles in archive lists
    ========================================================================== */
+
+.archive__item-title a {
+  color: var(--global-text-color) !important;
+  text-decoration: none !important;
+  display: inline;
+  padding-bottom: 3px;
+  background-image: linear-gradient(var(--global-text-color), var(--global-text-color));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .2s ease-in-out;
+
+  &:hover,
+  &:focus {
+    background-size: 100% 2px;
+  }
+}
+
+/*
 .archive__item-title a {
   color: var(--global-text-color) !important; /* 将标题链接颜色更改为主要文本颜色 */
   text-decoration: none !important;
@@ -311,6 +318,7 @@
     transform: scaleX(1);
   }
 }
+*/
 
 /* 移除父元素hover时可能产生的下划线效果 */
 .archive__item:hover .archive__item-title {
