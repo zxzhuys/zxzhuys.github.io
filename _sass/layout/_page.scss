@@ -400,3 +400,43 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   统一链接样式 (颜色和动态下划线)
+   ========================================================================== */
+.page__content a:not(.btn),
+.archive a:not(.btn) {
+  color: var(--global-text-color) !important; /*! 将链接颜色设为主要文本颜色 */
+  text-decoration: none !important;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 3px; /* 为下划线留出空间 */
+
+  &:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--global-text-color); /* 下划线颜色与文本颜色一致 */
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.2s ease-in-out 0s;
+    transition: all 0.2s ease-in-out 0s;
+    transform-origin: left;
+  }
+
+  &:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+
+/* 确保父元素 hover 时不会添加多余的下划线 */
+.archive__item:hover .archive__item-title {
+  text-decoration: none !important;
+}
+
