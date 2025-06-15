@@ -278,3 +278,41 @@ a {
     }
   }
 }
+
+/*
+   Dynamic underline for article titles in archive lists
+   ========================================================================== */
+.archive__item-title a {
+  text-decoration: none !important; /* 强制移除默认下划线 */
+  position: relative;
+  display: inline-block;
+  padding-bottom: 3px; /* 为下划线留出一些空间 */
+
+  &:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--global-link-color-hover); /* 使用链接悬停时的颜色 */
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.2s ease-in-out 0s;
+    transition: all 0.2s ease-in-out 0s;
+    transform-origin: left;
+  }
+
+  &:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+
+/* 移除父元素hover时可能产生的下划线效果 */
+.archive__item:hover .archive__item-title {
+  text-decoration: none !important;
+}
+
