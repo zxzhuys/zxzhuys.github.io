@@ -254,7 +254,7 @@
 .archive__item-title a {
   color: var(--global-text-color) !important;
   text-decoration: none !important;
-  display: inline;
+  display: inline; /* This allows the link to wrap with the text */
   padding-bottom: 3px;
   background-image: linear-gradient(var(--global-text-color), var(--global-text-color));
   background-position: 0 100%;
@@ -268,7 +268,7 @@
   }
 }
 
-/* 移除父元素hover时可能产生的下划线效果 */
+/* Removes underline from the parent container on hover */
 .archive__item:hover .archive__item-title {
   text-decoration: none !important;
 }
