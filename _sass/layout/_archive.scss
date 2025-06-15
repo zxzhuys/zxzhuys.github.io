@@ -14,7 +14,7 @@
     @include prefix(0.5 of 12);
   }
 
-
+/*
   a {
     text-decoration: underline;
 
@@ -26,7 +26,37 @@
       }
     }
   }
+*/
 
+  a {
+    text-decoration: none;
+    position: relative;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -2px;
+      height: 2px;
+      width: 100%;
+      background: var(--global-link-color);
+      -webkit-transition: $global-transition;
+      transition: $global-transition;
+      -webkit-transform: scaleX(0);
+      transform: scaleX(0);
+    }
+
+    &:hover:before {
+      -webkit-transform: scaleX(1);
+      transform: scaleX(1);
+    }
+
+    &:hover {
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
 
 
 }
