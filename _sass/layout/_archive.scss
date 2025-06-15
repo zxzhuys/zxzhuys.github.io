@@ -283,10 +283,11 @@ a {
    Dynamic underline for article titles in archive lists
    ========================================================================== */
 .archive__item-title a {
-  text-decoration: none !important; /* 强制移除默认下划线 */
+  color: var(--global-text-color) !important; /* 将标题链接颜色更改为主要文本颜色 */
+  text-decoration: none !important;
   position: relative;
   display: inline-block;
-  padding-bottom: 3px; /* 为下划线留出一些空间 */
+  padding-bottom: 3px;
 
   &:before {
     content: "";
@@ -295,7 +296,7 @@ a {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: var(--global-link-color-hover); /* 使用链接悬停时的颜色 */
+    background-color: var(--global-text-color); /* 将下划线颜色也更改为主要文本颜色 */
     visibility: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
