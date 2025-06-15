@@ -74,25 +74,14 @@
 
   a {
     text-decoration: none;
-    position: relative;
+    background-image: linear-gradient(var(--global-link-color), var(--global-link-color));
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s ease-in-out;
 
-    &:before {
-      content: "";
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      height: 2px;
-      width: 100%;
-      background: var(--global-link-color);
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
-      -webkit-transform: scaleX(0);
-      transform: scaleX(0);
-    }
-
-    &:hover:before {
-      -webkit-transform: scaleX(1);
-      transform: scaleX(1);
+    &:hover, &:focus {
+      background-size: 100% 2px;
     }
 
     &:hover {
