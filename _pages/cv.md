@@ -21,7 +21,7 @@ Education
 
 Language Proficiency
 ======
-* English  - TOEFL 96 (R25+L25+S21+W25) & CET-6 568 (Oral: A)
+* English  - TOEFL iBT 96 (R25+L25+S21+W25) & CET6 568 (CET-SET: A)
 * Japanese - JLPT N1 & JLPT N2
 * Chinese  - Native
 
@@ -30,14 +30,20 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+* **Coding**: MATLAB, C, Markdown
+* **Software**: MATLAB/Simulink, Code Composer Studio, PSpice, Multisim, Quartus, AutoCAD, ANSYS
+* **Others**
+
 Research Experience
 ======
   <ul>{% for post in site.research reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Honor and Award
+Honors & Awards
 ======
 * Zhejiang University Outstanding Graduates
 * National Encouragement Scholarship
@@ -47,7 +53,7 @@ Honor and Award
 * Zhejiang University Excellent Student Cadre
 * The First Prize in the East China Regional Competition of the 2nd Electrical & Electronic Engineering Innovation Competition
 
-Extracurricular Activity
+Extracurricular Activities
 ======
 * Student Education Project *(Team Leader, Key Project of College)*
   * *Project Name: Construction of College Academic Assistance Website and WeChat Official Account*
