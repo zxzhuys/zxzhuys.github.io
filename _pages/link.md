@@ -36,7 +36,7 @@ redirect_from:
 
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">GitHub</a>
-  <a href="https://libdb.zju.edu.cn/s/lib/libtb/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">浙江大学图书馆数据库</a>
+  <a href="https://webvpn.zju.edu.cn" target="_blank" rel="noopener noreferrer" style="font-size:22px;">ZJU WebVPN</a>
   <a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Google Scholar</a>
   <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:22px;">IEEE Xplore</a>
 </div>
@@ -51,6 +51,7 @@ redirect_from:
 
 ## <span style="font-size:24px;">Tool</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
+  <a href="http://www-cc98-org-s.webvpn.zju.edu.cn:8001/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">CC98</a>
   <a href="https://www.scribbr.com/citation/generator/#user" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Citation Generator</a>
   <a href="https://www.ilovepdf.com/zh-cn" target="_blank" rel="noopener noreferrer" style="font-size:22px;">PDF Toolbox</a>
   <a href="https://kingfast.info/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">KingFast VPN</a>
