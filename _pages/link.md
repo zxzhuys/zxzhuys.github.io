@@ -44,6 +44,7 @@ redirect_from:
 ## <span style="font-size:24px;">Anime</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
   <a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Bilibili</a>
+  <a href="https://bangumi.tv/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Bangumi</a>
   <a href="https://skr.cc/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Sakura Animation</a>
   <a href="https://www.age.tv/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">AGE Animation</a>
   <a href="https://www.tsdm39.com/forum.php" target="_blank" rel="noopener noreferrer" style="font-size:22px;">天使动漫论坛</a>
