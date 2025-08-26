@@ -22,8 +22,9 @@ In servo systems with low-switching-frequency devices and high speeds, PMSMs ope
 3. To validate the proposed control strategy, this study modeled sensor signal transformation delays and commercial inverter (e.g., Siemens S120 series) current sampling methods in a high-fidelity Simulink simulation to ensure results accurately matched real-world control performance, and constructed a real-time motor control platform based on TMS320F28379D DSP. [[model](https://github.com/zxzhuys/PMSM-Current-Decoupling)]
 
 ## Publication
-* ZHU Zixuan. Current Control of Low Carrier Ratio Permanent Magnet Synchronous Motors[D]. Zhejiang University, 2025.
-* A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU. *(Patent Under Review)*
+[1] ZHU Zixuan. Current Control of Low Carrier Ratio Permanent Magnet Synchronous Motors[D]. Zhejiang University, 2025.
+
+[2] A Method for Optimized Current Control of Permanent Magnet Synchronous Motors Based on MCU. *(Patent Under Review)*
 
 ### Control Performance of Complex Vector Decoupling & Double-sample/Double-update Strategy 
 <img src='/images/CV-dq-current.png'>
