@@ -19,7 +19,7 @@ In servo systems with low-switching-frequency devices and high speeds, PMSMs ope
 
 2. To realize dynamic decoupling of dq-axis currents, this study derived a complex vector decoupling method based on complex vector theory. Through theoretical analysis, comparative studies, simulations, and experiments, this approach was compared with traditional feedforward decoupling methods. The results validated that complex vector decoupling achieved dynamic decoupling of dq-axis currents while maintaining steady-state performance.
 
-3. To validate the proposed control strategy, this study modeled sensor signal transformation delays and commercial inverter (e.g., Siemens S120 series) current sampling methods in a high-fidelity Simulink simulation to ensure results accurately matched real-world control performance, and constructed a real-time motor control platform based on TMS320F28379D DSP. [[model]](https://github.com/zxzhuys/PMSM-Current-Decoupling)
+3. To validate the proposed control strategy, this study modeled sensor signal transformation delays and commercial inverter (e.g., Siemens S120 series) current sampling methods in a high-fidelity Simulink simulation to ensure results accurately matched real-world control performance, and constructed a real-time motor control platform based on TMS320F28379D DSP. [[model](https://github.com/zxzhuys/PMSM-Current-Decoupling)]
 
 ## Publication
 * ZHU Zixuan. Current Control of Low Carrier Ratio Permanent Magnet Synchronous Motors[D]. Zhejiang University, 2025.
