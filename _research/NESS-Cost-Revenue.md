@@ -12,7 +12,7 @@ location: "Hangzhou, China"
 
 ***Keywords**: Novel Energy Storage System, Lithium Iron Phosphate Battery, Levelized Generation Cost, Full Life Cycle, Electricity Market.*
 
-## Research description
+## Research Description
 1. Compiled a comprehensive research report by analyzing and summarizing policies and current status of novel energy storage in various countries and regions, including the US, Australia, China, the UK, Japan, etc.
 2. Based on lifecycle theory, developed the Levelized Cost of Electricity (LCOE) model for lithium iron phosphate batteries and performed sensitivity analysis to the trends of LCOE in relation to the annual operating frequency, charging/discharging efficiency, average off-peak electricity price, and charging/discharging depth of energy storage systems.
 3. From diverse perspectives (grid side, supply side, demand side, etc), conducted an investigation and analysis of revenue mechanisms including capacity compensation and capacity leasing, electric energy market, and ancillary service market.
