@@ -12,18 +12,26 @@ redirect_from:
 Education
 ======
 * M.Eng. in Mechanical Engineering, The University of Tokyo
-  * Oct. 2025 - Present
+  * *Oct. 2025 - Present*, Supervisor: Prof. Muhammad Aziz
+  * Tsingshan Fellowship (Full Scholarship for International Students)
 * B.Eng. in Electrical Engineering and Automation, Zhejiang University
-  * Sep. 2020 - Jun. 2025, GPA: 3.88/4.0
+  * *Sep. 2020 - Jun. 2025*
+  * Overall GPA: 3.88/4.0
+  * Outstanding Graduates of Zhejiang University
+  * National Encouragement Scholarship (for 2 years)
+  * Third-class Scholarship & Alumni Inspiration Scholarship of Zhejiang University (for 2 years)
+  * Academic Excellence & Student Leadership & Innovation and Entrepreneurship Awards of Zhejiang University (for 3 years)
+  * First Prize in East China Regional Competition of 2nd Electrical & Electronic Engineering Innovation Competition
+
 * International Study
   * UTokyo Global Unit Courses, The University of Tokyo, Jul. 2024
-  * Power Electronic Device and Application Techniques(Online), The Aalborg University, May 2023
+  * Power Electronic Device and Application Techniques (Online), Aalborg University, May 2023
 
 Language Proficiency
 ======
-* English  - TOEFL iBT 96 (R25+L25+S21+W25) & CET6 568 (CET-SET: A)
-* Japanese - JLPT N1 & JLPT N2
-* Chinese  - Native
+* English (Proficiency)  - TOEFL iBT 96 (R25+L25+S21+W25) & CET6 568 (CET-SET: A)
+* Japanese (Proficiency) - JLPT N1 & JLPT N2
+* Chinese (Native)
 
 Publications
 ======
@@ -33,7 +41,7 @@ Publications
 
 Skills
 ======
-* **Coding**: MATLAB, C, Markdown
+* **Coding**: MATLAB, C, VHDL, Markdown, LaTex
 * **Software**: MATLAB/Simulink, Code Composer Studio, PSpice, Multisim, Quartus, AutoCAD, ANSYS
 * **Others**
 
@@ -43,27 +51,15 @@ Research Experience
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Honors & Awards
-======
-* Zhejiang University Outstanding Graduates
-* National Encouragement Scholarship
-* Zhejiang University Scholarship - Alumni Inspiration Scholarship
-* Zhejiang University Scholarship - Third Prize
-* Zhejiang University Award - Academic Excellence & Student Leadership & Innovation and Entrepreneurship & Academic Progress
-* Zhejiang University Excellent Student Cadre
-* The First Prize in the East China Regional Competition of the 2nd Electrical & Electronic Engineering Innovation Competition
-
 Extracurricular Activities
 ======
-* Student Education Project *(Team Leader, Key Project of College)*
-  * *Project Name: Construction of College Academic Assistance Website and WeChat Official Account*
-* Zhejiang University Student Leader in *Short-term Student Exchange Program of Chinese Language & Culture at Zhejiang University*
-  * *With students from The University of Tokyo, Kyoto University, etc.*
+* **Team Leader**, College Key Outstanding Student Education Project
+  * Project Name: Construction of College Academic Assistance Website and WeChat Official Account [[report]](https://mp.weixin.qq.com/s/Pb1igBoXFrWj-sYnwDibhA)
+* **Student Leader of Zhejiang University**, Short-term Student Exchange Program of Chinese Language & Culture at ZJU
+  * With students from The University of Tokyo, Kyoto University, etc. [[program information]](https://www.u-tokyo.ac.jp/content/400248689.pdf)
 * Tennis Player
-  * Third Place in Jinhua U14 Tennis Ranking Tournament *(Jinhua, China)*
+  * Member of Zhejiang University Student Tennis Team (Sep. 2020 - Jun. 2021)
+  * Top 3 in Jinhua Tennis Ranking Tournament *(Jinhua, China)*
   * Member of Jinhua City Team at 2016 Zhejiang Provincial Tennis Championships
     * Top 32 in Singles
     * 6th in Team Competition
-  * Member of Zhejiang University Student Tennis Team
-    * Sep. 2020 - Jun. 2021
-
