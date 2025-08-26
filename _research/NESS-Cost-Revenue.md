@@ -19,5 +19,7 @@ location: "Hangzhou, China"
 
 ## Publication
 Conference Paper *(Online | EI Compendex and SCOPUS)*
-* [Investigation on Policies and Projects Related to the Development of Novel Energy Storage](https://zxzhuys.github.io/publication/Investigation-on-Policies-and-Projects-Related-to-the-Development-of-Novel-Energy-Storage)
-* [Investigation on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries](https://zxzhuys.github.io/publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries)
+
+[1] [Investigation on Policies and Projects Related to the Development of Novel Energy Storage](https://zxzhuys.github.io/publication/Investigation-on-Policies-and-Projects-Related-to-the-Development-of-Novel-Energy-Storage)
+
+[2] [Investigation on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries](https://zxzhuys.github.io/publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries)
