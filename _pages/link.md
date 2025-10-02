@@ -7,21 +7,16 @@ redirect_from:
   - /resume
 ---
 
-<!-- 固定Bing搜索栏 -->
-<div align="center" style="margin: 20px 0;">
-  <form action="https://www.bing.com/search" method="get" target="_blank" style="display: flex; align-items: center;">
-    <span style="font-size: 24px; font-weight: bold; color: #000000; margin-right: 15px;">Microsoft Bing</span>
-    <input type="text" name="q" placeholder="输入关键词搜索..." style="width: 500px; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-    <input type="submit" value="Search" style="padding: 8px 15px; margin-left: 10px; background-color: #000000; color: white; border: none; border-radius: 4px; cursor: pointer;">
-  </form>
-</div>
-
 **<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:20px;">EPI Lab (Aziz Lab)</a>**
 
 **<a href="https://www.zjuers.com/" target="_blank" rel="noopener noreferrer" style="font-size:20px;">ZJUers 轻首页</a>**
 
 ## <span style="font-size:24px;">東京大学</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
+　<a href="https://utas.adm.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">UTAS</a>
+  <a href="https://utol.ecc.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">UTOL</a>
+  <a href="https://utelecon.adm.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">utelecon</a>
+  <a href="https://www2.mech.t.u-tokyo.ac.jp/student/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">機械系学生の方へ</a>
   <a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">IME</a>
   <a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:22px;">工学系機械専攻</a>
 </div>
