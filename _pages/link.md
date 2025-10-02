@@ -13,7 +13,8 @@ redirect_from:
 
 ## <span style="font-size:24px;">東京大学</span>
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
-　<a href="https://utas.adm.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">UTAS</a>
+
+  <a href="https://utas.adm.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">UTAS</a>
   <a href="https://utol.ecc.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">UTOL</a>
   <a href="https://utelecon.adm.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">utelecon</a>
   <a href="https://www2.mech.t.u-tokyo.ac.jp/student/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">機械系学生の方へ</a>
