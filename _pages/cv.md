@@ -14,6 +14,7 @@ Education
 * **M.Eng. in Mechanical Engineering, The University of Tokyo**
   * *Oct. 2025 - Present*, Supervisor: Prof. Muhammad Aziz
   * Tsingshan Fellowship (Full Scholarship for International Students)
+  * JASSO Scholarship (Monbukagakusho Honors Scholarship for Privately-Financed International Students)
 * **B.Eng. in Electrical Engineering and Automation, Zhejiang University**
   * *Sep. 2020 - Jun. 2025*
   * Overall GPA: 3.88/4.0
