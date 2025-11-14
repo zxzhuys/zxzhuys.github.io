@@ -16,6 +16,6 @@ My primary academic interests lie in the field of **energy systems**, with a par
 During my undergraduate studies, I was also fortunate to gain some research experience in **control of electrical machines**, **power electronics**, and **power system analysis**.
 
 ## Hobbies
-Beyond my academic pursuits, I enjoy playing tennis, photography, and jogging. I also have a keen interest in Tokusatsu films, Anime, and History.
+Beyond my academic pursuits, I enjoy playing tennis, violin, and jogging. I also have a keen interest in Tokusatsu films, Anime, and History.
 
 If you share any of these passions, I’d be delighted to connect and exchange thoughts!
