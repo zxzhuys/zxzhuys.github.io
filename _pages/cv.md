@@ -63,3 +63,6 @@ Extracurricular Activities
   * Member of Jinhua City Team at 2016 Zhejiang Provincial Tennis Championships
     * Top 32 in Singles
     * 6th in Team Competition
+* **Beginner at the Violin**
+  * Member of 東京大学室内楽の会 (Oct. 2025 - Present)
+
