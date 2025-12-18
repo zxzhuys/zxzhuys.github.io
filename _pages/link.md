@@ -57,8 +57,7 @@ redirect_from:
 <div style="display:flex; gap:28px; font-size:24px; margin:24px 0;">
   <a href="https://www.drawio.com/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">draw.io</a>
   <a href="https://r.jina.ai/" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Jina Webpage Reader for LLM</a>
-  <a href="https://www.japan-accessible.com/index.htm" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Japan Accessiblity</a>
-  <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:22px;">IEEE Xplore</a>
+  <a href="https://www.japan-accessible.com/index.htm" target="_blank" rel="noopener noreferrer" style="font-size:22px;">Japan Accessibility</a>
 </div>
 
 ## <span style="font-size:24px;">Email</span>
