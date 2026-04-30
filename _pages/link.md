@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:20px;">EPI Lab (Aziz Lab)</a>**
+**<a href="https://web.tohoku.ac.jp/deeps/" target="_blank" rel="noopener noreferrer" style="font-size:20px;">DeEPS Lab (Aziz Lab)</a>**
 
 **<a href="https://www.zjuers.com/" target="_blank" rel="noopener noreferrer" style="font-size:20px;">ZJUers 轻首页</a>**
 
